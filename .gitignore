@@ -1,0 +1,16 @@
+# Composer dependencies (restore with: composer install)
+/vendor/
+
+# PHPUnit
+/.phpunit.cache/
+.phpunit.result.cache
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.stackdump
+~$*
+
+# Logs & local env
+*.log
+.env
